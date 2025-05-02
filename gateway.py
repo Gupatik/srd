@@ -1,5 +1,5 @@
 # ----------------------------
-# Flask Gateway (Your Code)
+# Flask Gateway
 # ----------------------------
 # 1. Receives HTTP request from ESP32
 # 2. Forwards it to gRPC 
